@@ -22,4 +22,4 @@
     O valor da linha 11 é: 8;
     O valor da linha 12 é: 2;
 
-7 - O valor da linha 12 é: 
+7 - O valor da linha 12 é: 25
